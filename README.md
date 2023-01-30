@@ -1,0 +1,2 @@
+# noteman
+notes manager c:
