@@ -5,7 +5,18 @@ really just a practice project
 
 ## Usage
 
-`noteman -d path/to/notes/root -t path/to/template/dir -i path/to/startup/script`
+```
+Notes manager
+
+Usage: noteman --notes-dir <NOTES_DIR> --template-dir <TEMPLATE_DIR> --startup-script <STARTUP_SCRIPT>
+
+Options:
+  -n, --notes-dir <NOTES_DIR>            Path to notes direcotry root
+  -t, --template-dir <TEMPLATE_DIR>      Path to template directory
+  -s, --startup-script <STARTUP_SCRIPT>  Path to startup script
+  -h, --help                             Print help
+  -V, --version                          Print version
+```
 
 
 ## Functionality
